@@ -60,3 +60,12 @@ TBC contains 13 commands:
 14. jel - jump to programm command no position from rg0 if rg3 < 0
 15. jeg - jump to programm command no position from rg0 if rg3 > 0
 16. jez - jump to programm command no position from rg0 if rg3 = 0
+
+# How compile
+You can compile this any way you wan
+
+For example
+```
+dmd src/psd_proc.d -of pp.exe
+clang++ src/tbc.cpp -o tbc.exe
+```
