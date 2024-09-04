@@ -1,0 +1,19 @@
+start:
+    mov  ax 5
+    mov  bx 3
+    call mul
+    mov out 255
+
+mul:
+    mov dx ax
+    sub bx 1
+  loop:
+    add ax dx
+    sub bx 1
+    jez bx end
+    jmp loop
+  end:
+    mov cx ax
+    mov ax 0
+    mov bx 0
+    ret

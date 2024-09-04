@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Desvor"
+	],
+	"copyright": "Copyright © 2024, sailo",
+	"dependencies": {
+		"dgame": "~>0.6.7"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "pp"
+}

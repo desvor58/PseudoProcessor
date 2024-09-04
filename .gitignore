@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/pseudoprocessor
+pseudoprocessor.so
+pseudoprocessor.dylib
+pseudoprocessor.dll
+pseudoprocessor.a
+pseudoprocessor.lib
+pseudoprocessor-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

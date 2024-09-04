@@ -1,0 +1,9 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-gl3": "1.0.24",
+		"derelict-sdl2": "1.9.5",
+		"derelict-util": "2.1.0",
+		"dgame": "0.6.7"
+	}
+}
